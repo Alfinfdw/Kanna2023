@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/1977a2409b77ae7c3450b.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Kanna</h1>
+<h1 align="center">Kanna MD</h1>
 <p align="center">
   <a href="https://github.com/Areta2023"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+RoyOfc;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
